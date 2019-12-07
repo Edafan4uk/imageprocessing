@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ImageProc": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Users\\edikz\\Desktop\\MARBLES.bmp"
+    }
+  }
+}

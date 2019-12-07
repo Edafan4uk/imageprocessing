@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29306.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ImageProc", "ImageProc\ImageProc.csproj", "{0BE85266-D57A-4048-87C3-FB110087AF63}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "imageproc2", "imageproc2\imageproc2.csproj", "{1D72899D-D463-470F-9539-D619F7574EFA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0BE85266-D57A-4048-87C3-FB110087AF63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BE85266-D57A-4048-87C3-FB110087AF63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BE85266-D57A-4048-87C3-FB110087AF63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BE85266-D57A-4048-87C3-FB110087AF63}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D72899D-D463-470F-9539-D619F7574EFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D72899D-D463-470F-9539-D619F7574EFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D72899D-D463-470F-9539-D619F7574EFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D72899D-D463-470F-9539-D619F7574EFA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1B570828-637D-459F-BAFE-477EBA87EEE6}
+	EndGlobalSection
+EndGlobal

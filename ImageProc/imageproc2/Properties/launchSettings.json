@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "imageproc2": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Users\\edikz\\Desktop\\lena512color.tiff"
+    }
+  }
+}
